@@ -1,0 +1,17 @@
+{
+  "math": {
+    "desc": "数学工具：立方、平方、平均值、阶乘",
+    "version": "0.1.0",
+    "url": "https://raw.githubusercontent.com/yizhixiaobaibai/registry/main/packages/math/index.cp"
+  },
+  "string": {
+    "desc": "字符串工具：反转、重复、左填充",
+    "version": "0.1.0",
+    "url": "https://raw.githubusercontent.com/yizhixiaobaibai/registry/main/packages/string/index.cp"
+  },
+  "图形": {
+    "desc": "图形工具：随机颜色等",
+    "version": "0.1.0",
+    "url": "https://raw.githubusercontent.com/yizhixiaobaibai/registry/main/packages/图形/index.cp"
+  }
+}
